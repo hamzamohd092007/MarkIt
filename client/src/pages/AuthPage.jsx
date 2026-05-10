@@ -112,7 +112,7 @@ const AuthPage = ({ setUser }) => {
                     src={
                       avatar
                         ? avatar
-                        : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrzK1R5eFyx2t3yRYdFNEMGkucJnl_txpmoQ&s"
+                        : "/defaultAvatar"
                     }
                     alt="avatar"
                     className="w-full h-full object-cover"
