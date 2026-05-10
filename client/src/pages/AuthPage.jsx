@@ -112,7 +112,7 @@ const AuthPage = ({ setUser }) => {
                     src={
                       avatar
                         ? avatar
-                        : "/defaultAvatar"
+                        : "/defaultAvatar.svg"
                     }
                     alt="avatar"
                     className="w-full h-full object-cover"
