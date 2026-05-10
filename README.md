@@ -75,8 +75,8 @@ This project focuses on improving productivity and web resource management with 
 
 ## 🌐 Live Demo
 
-Frontend: *Coming Soon*  
-Backend API: *Coming Soon*
+- Frontend: [MarkIt - Vercel](https://mark-it-murex.vercel.app)
+- Backend: [MarkIt - Render](https://markit-ftau.onrender.com)
 
 ---
 
