@@ -84,7 +84,7 @@ This project focuses on improving productivity and web resource management with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/MarkIt.git
+git clone https://github.com/hamzamohd092007/MarkIt.git
 
 # Navigate to project folder
 cd MarkIt
